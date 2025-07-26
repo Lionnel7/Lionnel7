@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-<!--
-**Lionnel7/Lionnel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Actuellement en formation de développement Web/Mobile, j'ai découvert une vraie passion pour le développement Web/Mobile, puis je me suis lancé dans la recherche d'une école et c'est là que j'ai trouvé Holberton School de Toulouse, j'espère avoir les compétences pour en faire mon métier. 💻
+💻 Pile technologique :
+Linux windows
+Github 
+C Python 
 
 Here are some ideas to get you started:
 
